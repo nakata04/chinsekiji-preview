@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Makuraishi Temple//Events//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:event-cmv2hcavj0001tu18675sobn3@makuraishi-temple
+DTSTAMP:20261010T143718Z
+LAST-MODIFIED:20261010T143718Z
+DTSTART:20261018T010000Z
+DTEND:20261018T063000Z
+SUMMARY:集中曝涼（文化財公開）
+STATUS:CONFIRMED
+DESCRIPTION:10月18日（日）、常陸太田市の集中曝涼にあわ
+ せて、枕石寺に伝わる文化財を公開します。時間は10:00
+ 〜15:30です。
+LOCATION:枕石寺（茨城県常陸太田市上河合町1102-1）
+URL:https://nakata04.github.io/chinsekiji-preview/events/shuju-bakuryo-2026
+END:VEVENT
+END:VCALENDAR

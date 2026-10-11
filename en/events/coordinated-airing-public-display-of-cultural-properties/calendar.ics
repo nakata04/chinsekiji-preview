@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Makuraishi Temple//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:event-cmv2hcavj0001tu18675sobn3-en@makuraishi-temple
+DTSTAMP:20261010T144156Z
+LAST-MODIFIED:20261010T144156Z
+DTSTART:20261018T010000Z
+DTEND:20261018T063000Z
+SUMMARY:Coordinated Airing (Public Display of Cultural Properties)
+STATUS:CONFIRMED
+DESCRIPTION:On Sunday\, October 18\, Chinsekiji Temple will display its tre
+ asured cultural properties as part of Hitachiota City's coordinated airing
+  event. Visiting hours are from 10:00 to 15:30.
+LOCATION:Chinsekiji Temple (1102-1 Kamikawai-cho\, Hitachiota City\, Ibarak
+ i Prefecture)
+URL:https://nakata04.github.io/chinsekiji-preview/en/events/coordinated-air
+ ing-public-display-of-cultural-properties
+END:VEVENT
+END:VCALENDAR
